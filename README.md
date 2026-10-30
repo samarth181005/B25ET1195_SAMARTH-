@@ -17,5 +17,12 @@ Tutorial 7 output :-
 <img width="477" height="336" alt="image" src="https://github.com/user-attachments/assets/828326d1-d407-4918-bd7c-191b4c3112aa" />
 Tutorial 8 output :- 
 <img width="423" height="277" alt="image" src="https://github.com/user-attachments/assets/1a30ec50-84f3-4575-93bd-f5f9f3f02ad8" />
-tutorial 9 output :- 
+Tutorial 9 output :- 
 <img width="540" height="261" alt="image" src="https://github.com/user-attachments/assets/beb53e28-5d94-4c21-9311-ba874a564c18" />
+Tutorial 10 output :- 
+<img width="495" height="232" alt="image" src="https://github.com/user-attachments/assets/af92815d-0f55-4e9e-bb92-7bc2616a8c26" />
+Tutorial 11 output :- 
+<img width="402" height="261" alt="image" src="https://github.com/user-attachments/assets/eab4511e-ae7d-4a31-8a9a-87f935353794" />
+Tutorial 12 output :- 
+<img width="512" height="257" alt="image" src="https://github.com/user-attachments/assets/ae7f4860-dfd4-46c3-bf69-b887ada8500e" />
+
