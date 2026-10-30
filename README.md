@@ -15,3 +15,5 @@ Tutorial 6 output :-
 <img width="462" height="485" alt="image" src="https://github.com/user-attachments/assets/f8f5a911-5509-4da4-9447-f5bccd9fa07f" />
 Tutorial 7 output :- 
 <img width="477" height="336" alt="image" src="https://github.com/user-attachments/assets/828326d1-d407-4918-bd7c-191b4c3112aa" />
+Tutorial 8 output :- 
+<img width="423" height="277" alt="image" src="https://github.com/user-attachments/assets/1a30ec50-84f3-4575-93bd-f5f9f3f02ad8" />
